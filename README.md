@@ -3,6 +3,8 @@ This is the companion repository for:
 
 Christo Kirov and and Ryan Cotterell. Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate. TACL. 2018.
 
+DISCLAIMER: The provided data combined with the commands below should produce similar results to the published paper, but they are not guaranteed to be identical. The provided commands may also change depending on your version of OpenNMT, etc. 
+
 # Experiment 1
 
 Create datasets for network training:
